@@ -14,6 +14,9 @@ git clone the ripository
 
 ##composer install
 
+## php artisan key:generate
+## php artisan config:cache
+
 
 ## setup database
 
