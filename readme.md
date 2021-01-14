@@ -10,6 +10,8 @@ when a project need multiple role base login like..university management
 
 git clone the ripository
 
+#setup .env file and connect database
+
 ##composer install
 
 
